@@ -1,0 +1,6 @@
+﻿token=NjczNTE5NDgwMDU1MjY3Mzg3.XjbOFg.XFb8aLcqEc0cG1pcGcoVfq7rXnM
+owner=560434723323904002
+prefix= ^
+game= veit.
+stayinchannel=true
+songinstatus=false
